@@ -87,7 +87,7 @@ A responsive website created to showcase my skills, projects, and professional p
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jack-MoribaE&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jack-Moriba&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
