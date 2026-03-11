@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jack</h1>
-<h3 align="center">Software Engineering Student | Web Developer | Graphic Designer</h3>
+<h3 align="center">Software Engineering Student | Web Developer | Graphic Designer | Full Strack Dev </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineering+Student;Web+Developer;Graphic+Designer;Building+useful+digital+solutions&center=true&width=500&height=45">
