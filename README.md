@@ -32,6 +32,10 @@ Passionate about technology, creativity, and building digital solutions with imp
 
 ---
 
+## 🌐 Socials:
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/Jacques Moriba Thea) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Jacques Moriba THEA) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/me_lil.boy_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Jacques Moriba THEA) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/humcompany) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:theajamesmoriba@gmail.com)
+
+
 ## 🛠 Tech Stack
 
 ### Languages
